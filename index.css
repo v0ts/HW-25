@@ -1,0 +1,39 @@
+
+.main-section {
+    /* display: flex;
+    justify-content: center; */
+    position: relative;
+}
+
+
+
+
+
+.red {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    top: 55px;
+    left: 55px;
+    z-index: 3;
+}
+
+.green {
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+    position: absolute;
+    top: 115px;
+    left: 115px;
+}
+
+/* div {
+    outline: solid red;
+} */
